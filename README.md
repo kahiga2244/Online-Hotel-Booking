@@ -51,7 +51,7 @@ This page can be used to contact the hotels by filling a simple form. It also se
 ​
 # Live link
 ​
-Delani Studio Live Link: [Delani Studio](https://kahiga2244.github.io/Online-Hotel-Booking)
+Delani Studio Live Link: [OnlineBookingHotel](https://kahiga2244.github.io/Online-Hotel-Booking/)
 ​
 # Contact information
 * Email: [Email](mailto:Kahigakamiru@gmail.com,daisyrop2000@gmail.com,alegoantony047@gmail.com,vincentmwendwa003@gmail.com)
