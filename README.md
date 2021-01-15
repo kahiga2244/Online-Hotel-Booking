@@ -1,7 +1,7 @@
 # Project name
 Online-Hotel-Booking
 # Author(s) information
-Daisy Rop, Kahiga2244, Antony590, Vicyyu
+Daisy Rop, Kahiga2244, Antony590, Vincyyu
 # Setup instructions
 ​
 1. Clone the repo:
